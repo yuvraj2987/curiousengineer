@@ -1,0 +1,49 @@
+# Ignore Hugo generated files
+/public/
+/resources/
+
+# Ignore Hugo cache directory
+/resources/_gen/
+
+# Ignore Hugo server-related files
+hugo_*
+
+# Ignore editor and IDE files
+*.swp
+.vscode/
+.idea/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore compiled and binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore node_modules directory (if not using npm)
+node_modules/
+
+# Ignore dependency management files (if using other package managers)
+# /vendor/
+# /Gopkg.lock
+# /Godeps/
+# /go.sum
+
+# Ignore temporary files
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore personal and sensitive files (e.g., API keys)
+config.yaml
+config.toml
+.env
+
+# Ignore backup and temporary files
+*~
+*.bak
+*.backup
+*.tmp

@@ -1,0 +1,4 @@
+baseURL = 'https://curiousengineer.github.io/'
+languageCode = 'en-us'
+title = 'Amit Kulkarni'
+theme = 'ananke'
