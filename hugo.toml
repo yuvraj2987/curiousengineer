@@ -2,3 +2,4 @@ baseURL = 'https://yuvraj2987.github.io/'
 languageCode = 'en-us'
 title = 'Amit Kulkarni'
 theme = 'ananke'
+publishDir = "docs"
