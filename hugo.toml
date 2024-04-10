@@ -46,6 +46,13 @@ style = "github-dark"
   weight = 1
   url = "https://github.com/yuvraj2987"
 
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/amitkulkarni2987/"
+
+
 # Menu links
 [[menu.main]]
   name = "Blog"
